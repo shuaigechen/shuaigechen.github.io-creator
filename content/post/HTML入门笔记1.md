@@ -1,17 +1,29 @@
 ---
 title: "HTML入门笔记1"
-date: 2019-08-14T10:51:31+08:00
+date: 2019-08-16T10:51:31+08:00
 draft: false
 ---
 
 # HTML入门笔记1
 
-今天是19年8月6号，这周学习了HTML入门，这是本周学到的知识总结，写博客记录下来
+今天是19年8月16号，这周学习了HTML入门，这是本周学到的知识总结，写博客记录下来
 
 HTML是Tim Berners-Lee（李爵士）发明的
 
 HTML起手先输入！
-
+<code>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+</head>
+<body>
+</body>
+</html>
+</code>
 HTML常用的章节标签有
 
 * 标题  h1-h6
