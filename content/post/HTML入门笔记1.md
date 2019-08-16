@@ -13,18 +13,32 @@ draft: false
 HTML是Tim Berners-Lee发明的
 
 HTML起手先输入 ！
+
 <code>
+
 <!DOCTYPE html>
+
 <html lang="en">
+
 <head>
+
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<meta name="viewport" content="width=device-width, 
+initial-scale=1.0">
+
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
 </head>
+
 <body>
+
 </body>
+
 </html>
+
 </code>
 
 HTML常用的章节标签有
