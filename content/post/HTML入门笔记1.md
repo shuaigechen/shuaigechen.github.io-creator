@@ -1,6 +1,6 @@
 ---
 title: "HTML入门笔记1"
-date: 2019-08-16T10:51:31+08:00
+date: 2019-08-16T15:51:31+08:00
 draft: false
 ---
 
@@ -8,9 +8,9 @@ draft: false
 
 今天是19年8月16号，这周学习了HTML入门，这是本周学到的知识总结，写博客记录下来
 
-HTML是Tim Berners-Lee（李爵士）发明的
+HTML是Tim Berners-Lee发明的
 
-HTML起手先输入！
+HTML起手先输入 ！
 <code>
 <!DOCTYPE html>
 <html lang="en">
@@ -24,6 +24,7 @@ HTML起手先输入！
 </body>
 </html>
 </code>
+
 HTML常用的章节标签有
 
 * 标题  h1-h6
