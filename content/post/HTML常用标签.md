@@ -156,7 +156,7 @@ input标签的作用：让用户输入内容
 
     <option value ="2">星期二</option>
 
-   </select>
+   </select)
 
 * textarea    输入多行内容，文本框可以拖动大小
   
@@ -174,11 +174,11 @@ input标签的作用：让用户输入内容
 
 重点：input和button的区别
 
-* <input type ="submit" value ="搞起"/>
+* <input type ="submit" value ="搞起"/)
   
     input里面不能有其它内容
 
-* <button type ="submit">搞起</button>
+* <button type ="submit">搞起</button)
 
     button里可以添加任意内容，图片之类的
 
