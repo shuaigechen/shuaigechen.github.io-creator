@@ -50,7 +50,7 @@ img(图片)标签，作用是发出get请求，展示这个图片
  
 * width     宽
 
-* 默认代码格式:(<img src="图片" alt ="介绍">)
+* 默认代码格式:img src="图片" alt ="介绍"
 
 事件
 
@@ -130,7 +130,7 @@ input标签的作用：让用户输入内容
   
 * checkbox    多选框，用同一个name表示一个组的
   
-* file        上传文件   (<input type="file" multiple>)可以上传多个文件
+* file        上传文件   input type="file" multiple可以上传多个文件
   
 * submit      提交，刷新（按钮）必须有的属性
   
@@ -148,21 +148,21 @@ input标签的作用：让用户输入内容
 
 * select+option   选择标签， 例如:选择星期几
 
- (<select>  是真正的值  用户看见的值
+* select 是真正的值  用户看见的值
 
-    <option value ="">--请选择--</option>
+    option value ="">--请选择--option
 
-    <option value ="1">星期一</option>
+    option value ="1">星期一option
 
-    <option value ="2">星期二</option>
+    option value ="2">星期二option
 
-   </select>)
+   select
 
 * textarea    输入多行内容，文本框可以拖动大小
   
-  (<textarea style = "resize : nome; width = 50%; height = 200px; ">
+  textarea style = "resize : nome; width = 50%; height = 200px; "
 
-    </textarea>)                     固定宽高，不能拖动文本框，改变大小
+    textarea                    固定宽高，不能拖动文本框，改变大小
 
 事件
 
@@ -174,11 +174,11 @@ input标签的作用：让用户输入内容
 
 重点：input和button的区别
 
-* (<input type ="submit" value ="搞起"/>)
+* input type ="submit" value ="搞起"
   
     input里面不能有其它内容
 
-* (<button type ="submit">搞起</button>)
+* button type ="submit">搞起</button
 
     button里可以添加任意内容，图片之类的
 
